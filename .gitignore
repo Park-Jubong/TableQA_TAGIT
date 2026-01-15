@@ -1,0 +1,11 @@
+exec_results
+results
+dail_sim_prompt.json
+pyagent_prompt.json
+python_code_sim_prompt.json
+python_nl_sim_prompt.json
+python_table_sim_prompt.json
+train_data_1000_html.json
+train_data_1747.json
+train_data_full_table.json
+train_gold.jsonl
